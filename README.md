@@ -24,6 +24,3 @@ A recruiter-friendly index of five focused Odoo projects for enterprise-grade op
 | Production Support | `odoo-production-bug-triage-toolkit` |
 | Full-Stack UX and Backend | `odoo-workflow-improvement-pack` |
 
-## Screenshots
-
-![Portfolio Overview](assets/screenshots/portfolio-overview.svg)
